@@ -1,0 +1,36 @@
+.nav{
+position: absolute;
+top:0;
+left: 0;
+width: 100%;
+height: 50px;
+background-color: blueviolet;
+text-align: center;
+}
+.nav h1{
+    position: relative;
+    top:-4px;
+}
+
+.fra{
+    position: absolute;
+    left:100px;
+    top:100px;
+    border:1px solid red;
+    border-radius: 5px;
+    width: 650px;
+    background-color: brown;
+}
+.content1{
+    position: absolute;
+    left:900px;
+    top: 100px;
+    width: 500px;
+}
+
+.claim{
+    position: relative;
+    right: 800px;
+    width: 700px;
+    bottom:125px;
+}
